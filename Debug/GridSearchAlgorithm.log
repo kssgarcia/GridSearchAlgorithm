@@ -1,0 +1,28 @@
+﻿  Source.cpp
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(29,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(31,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(32,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(33,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(46,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(48,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(49,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(52,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(53,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(54,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(55,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(63,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(83,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(85,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(96,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(98,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(114,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(142,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(171,21): warning C4018: '<': signed/unsigned mismatch
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(179,21): warning C4018: '<': signed/unsigned mismatch
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(242,75): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(244,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(245,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(246,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(247,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Source.cpp(248,72): warning C4305: 'argument': truncation from 'double' to 'float'
+  GridSearchAlgorithm.vcxproj -> D:\Works\Proyecto-GRID\Calculos\SearchAlgorithm\GridSearchAlgorithm\Debug\GridSearchAlgorithm.exe
