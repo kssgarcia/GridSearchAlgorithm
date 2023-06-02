@@ -1,1 +1,1 @@
-ECHO is on.
+# This is search algorithm for an actuator's position.
